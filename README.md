@@ -18,6 +18,7 @@ Generate_profile_report(pd.read_csv('Your CSV file'))
 ```
 
 ## Run
+Run from the command line
 ```bash
 python3 Generate_profiling.py <csv_file_path> <output_directory>
 ```
